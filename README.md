@@ -6,7 +6,6 @@ lhseunge.github.io/_post/'YYYY-MM-DD-name-of-post.md'
 
 front matter
 
-////////////////////////////////
 ```
 ---
 title: "Welcome to Jekyll!"
@@ -15,4 +14,3 @@ categories: jekyll update
 ---
 contents
 ```
-////////////////////////////////
