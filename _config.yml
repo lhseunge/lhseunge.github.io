@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "SEUNG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이현승"
+name                     : "lhseunge"
 description              : "An amazing website."
 url                      : "https://lhseunge.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
