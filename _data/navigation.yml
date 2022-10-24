@@ -1,7 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://lhseunge.github.io
+  - title: "Home"
+    url: /index.html
+  - title: "Category"
+    url: /categories/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
