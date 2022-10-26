@@ -581,6 +581,8 @@ body {
   Page Date
 */
 
-.page__date {
-  font-size: $type-size-6;
-}
+.page__header {
+  .page__date {
+    font-size: $type-size-6;
+  }
+} 
