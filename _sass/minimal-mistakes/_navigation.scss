@@ -497,6 +497,12 @@
     font-weight: bold;
     text-transform: uppercase;
     border-bottom: 1px solid $border-color;
+
+    ul {
+      li {
+        margin-bottom: 0.3em;
+      }
+    }
   }
   
   /*
