@@ -17,6 +17,9 @@ docs:
       - title: "AWS"
         url: categories/aws/
         category: "aws"
+      - title: "Git"
+        url: categories/git/
+        category: "git"
   - title: Etc
     children:
       - title: "blog"
