@@ -30,9 +30,14 @@ docs:
   #       category: "mariadb"
   - title: Etc
     children:
-      - title: blog"
+      - title: "blog"
         url: blog/
         category: "blog"
+  - title: Test
+    children:
+      - title: "test"
+        url: test/
+        category: "test"
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
