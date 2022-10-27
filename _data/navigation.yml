@@ -17,6 +17,16 @@ docs:
       - title: "AWS"
         url: aws/
         category: "aws"
+  - title: Etc
+    children:
+      - title: "blog"
+        url: categories/blog/
+        category: "blog"
+  - title: Test
+    children:
+      - title: "test"
+        url: categories/test/
+        category: "test"
   # - title: Database
   #   children:
   #     - title: "Oracle"
@@ -28,16 +38,6 @@ docs:
   #     - title: "MariaDB"
   #       url: mariadb/
   #       category: "mariadb"
-  - title: Etc
-    children:
-      - title: "blog"
-        url: blog/
-        category: "blog"
-  - title: Test
-    children:
-      - title: "test"
-        url: test/
-        category: "test"
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
