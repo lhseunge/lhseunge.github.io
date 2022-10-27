@@ -11,22 +11,22 @@ main:
 docs:
   - title: Server
     children:
-      - title: "Java"
-        url: java/
+      - title: "JAVA"
+        url: categories/java/
         category: "java"
       - title: "AWS"
-        url: aws/
+        url: categories/aws/
         category: "aws"
   - title: Etc
     children:
       - title: "blog"
         url: categories/blog/
         category: "blog"
-  - title: Test
-    children:
-      - title: "test"
-        url: categories/test/
-        category: "test"
+  # - title: Test
+  #   children:
+  #     - title: "test"
+  #       url: categories/test/
+  #       category: "test"
   # - title: Database
   #   children:
   #     - title: "Oracle"
