@@ -7,6 +7,33 @@ main:
   - title: "Tag"
     url: /tags/
 
+
+docs:
+  - title: Server
+    children:
+      - title: "Java"
+        url: java/
+        category: "java"
+      - title: "AWS"
+        url: aws/
+        category: "aws"
+  # - title: Database
+  #   children:
+  #     - title: "Oracle"
+  #       url: oracle/
+  #       category: "oracle"
+  #     - title: "MS-SQL"
+  #       url: mssql/
+  #       category: "mssql"
+  #     - title: "MariaDB"
+  #       url: mariadb/
+  #       category: "mariadb"
+  - title: Etc
+    children:
+      - title: blog"
+        url: blog/
+        category: "blog"
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
