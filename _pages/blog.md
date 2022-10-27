@@ -5,5 +5,5 @@ layout: category
 author_profile: true
 taxonomy: blog
 sidebar:
-  nav: "main"
+  nav: "docs"
 ---
