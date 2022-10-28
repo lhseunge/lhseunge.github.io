@@ -23,6 +23,9 @@ docs:
       - title: "DataBase"
         url: categories/database/
         category: "database"
+      - title: "Algorithm"
+        url: categories/algorithm/
+        category: "algorithm"
   - title: Etc
     children:
       - title: "blog"
