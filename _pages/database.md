@@ -1,5 +1,5 @@
 ---
-title: "DATABASE"
+title: "DataBase"
 permalink: /categories/database/
 layout: category
 author_profile: true
