@@ -20,6 +20,9 @@ docs:
       - title: "Git"
         url: categories/git/
         category: "git"
+      - title: "DataBase"
+        url: categories/database/
+        category: "database"
   - title: Etc
     children:
       - title: "blog"
