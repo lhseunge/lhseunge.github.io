@@ -280,6 +280,9 @@ compress_html:
     envs: development
 
 
+sidebar:
+  nav: "docs"
+
 # Defaults
 defaults:
   # _posts
