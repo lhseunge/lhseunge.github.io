@@ -283,6 +283,7 @@ compress_html:
 sidebar:
   nav: "docs"
 
+
 # Defaults
 defaults:
   # _posts
