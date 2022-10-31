@@ -9,11 +9,14 @@ main:
 
 
 docs:
-  - title: Server
+  - title: Backend
     children:
-      - title: "JAVA"
+      - title: "Java"
         url: categories/java/
         category: "java"
+      - title: "Spring"
+        url: categories/spring/
+        category: "spring"
       - title: "AWS"
         url: categories/aws/
         category: "aws"
