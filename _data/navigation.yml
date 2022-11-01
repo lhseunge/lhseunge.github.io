@@ -31,7 +31,10 @@ docs:
         category: "algorithm"
   - title: Etc
     children:
-      - title: "blog"
+      - title: "Review"
+        url: categories/review/
+        category: "review"
+      - title: "Blog"
         url: categories/blog/
         category: "blog"
   # - title: Test
