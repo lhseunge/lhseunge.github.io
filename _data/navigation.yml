@@ -6,8 +6,8 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 
 
 docs:
