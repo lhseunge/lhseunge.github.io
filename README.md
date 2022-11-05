@@ -8,8 +8,15 @@ front matter
 
 ```
 ---
-title: "test Posting!"
-# date: 2022-10-20 15:28:00 +0900
+title: "<title>"
+date: <timestamp> ex)2022-11-03 01:49:00 +0900
+last_modified_at: <timestamp> ex)2022-11-03 01:49:00 +0900
+
+categories:
+  - <category>
+
+tags: 
+  - <tag>
 
 toc: true
 toc_sticky: true
@@ -17,16 +24,9 @@ toc_sticky: true
 header: 
   teaser: /assets/images/github-page.jpeg
 
-categories:
-  - blog
-
-tags: 
-  - jekyll
-  - minimal mistakes
-  - GitHub Pages
-  
-last_modified_at: 2022-10-20T15:25+0900
----
+sidebar:
+  nav: "docs"
+---****
 contents
 ```
  h2 태그로 제목을 쓰면
