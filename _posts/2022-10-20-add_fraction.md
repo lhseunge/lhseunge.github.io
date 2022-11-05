@@ -27,11 +27,11 @@ sidebar:
 0 <denum1, num1, denum2, num2 < 1,000
 
 ## 입출력 예
-denum1	num1	denum2	num2	result
+|denum1|num1|denum2|num2|result|
+|---|---|---|---|---|
+|1|2|3|4|[5, 4]|
 
-1	2	3	4	[5, 4]
-
-9	2	1	3	[29, 6]
+|9|2|1|3|[29, 6]|
 
 ### 입출력 예 #1
 
