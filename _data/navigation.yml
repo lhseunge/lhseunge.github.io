@@ -28,6 +28,9 @@ docs:
       - title: "DataBase"
         url: categories/database/
         category: "database"
+      - title: "Node"
+        url: categories/node/
+        category: "node"
       - title: "Algorithm"
         url: categories/algorithm/
         category: "algorithm"
