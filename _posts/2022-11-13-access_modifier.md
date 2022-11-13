@@ -1,5 +1,5 @@
 ---
-title: "Java - 접근 제한자"
+title: "[Java] 접근 제한자"
 date: 2022-11-13 23:46:00 +0900
 last_modified_at: 2022-11-13 23:46:00 +0900
 
@@ -10,11 +10,12 @@ header:
   teaser: /assets/images/github-page.jpeg
 
 categories:
-  - test
+  - java
 
 tags: 
-  - category
-  - sidebar
+  - java
+  - 접근 제한자
+  - 접근 제어자
 
 sidebar:
   nav: "docs"
