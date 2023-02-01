@@ -6,7 +6,6 @@ lhseunge.github.io/_posts/'YYYY-MM-DD-name-of-post.md'
 
 front matter
 
-
 ```
 ---
 title: "<title>"
