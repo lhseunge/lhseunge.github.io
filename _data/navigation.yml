@@ -35,7 +35,8 @@ docs:
         url: categories/node/
         category: "node"
       - title: "Algorithm"
-        url: categories/algorithm/
+        # url: categories/algorithm/
+        url: https://organic-flat-847.notion.site/SOLID-5867e716229e453ea677e5ed58924e4a?pvs=4
         category: "algorithm"
   - title: Etc
     children:
