@@ -36,7 +36,7 @@ docs:
         category: "node"
       - title: "Algorithm"
         # url: categories/algorithm/
-        url: https://organic-flat-847.notion.site/Programmers-331feaa612934d2bb7376ea70c98b3fe?pvs=4
+        url: https://lhseunge.notion.site/Programmers-331feaa612934d2bb7376ea70c98b3fe?pvs=4
         category: "algorithm"
   - title: Etc
     children:
