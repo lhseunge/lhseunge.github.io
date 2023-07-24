@@ -22,6 +22,9 @@ docs:
       - title: "AWS"
         url: categories/aws/
         category: "aws"
+      - title: "Programing"
+        url: categories/programing/
+        category: "programing"
       - title: "Git"
         url: categories/git/
         category: "git"
