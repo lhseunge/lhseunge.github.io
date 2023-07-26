@@ -4,10 +4,13 @@ date: 2023-07-26 15:29:00 +0900
 last_modified_at: 2023-07-26 15:29:00 +0900
 
 categories:
-  - datebase
+  - database
 
 tags: 
   - 데이터베이스
+  - 커넥션 풀
+  - db connection
+  - db connection pool
 
 toc: true
 toc_sticky: true
