@@ -31,7 +31,7 @@ DBCP는 이러한 상황을 예방하기 위해 애플리케이션이 실행 될
 
 ### 요약
 
-1. 애플리케이션 실행 시 정의된 수만큼 DB Connection 생성
+1. 애플리케이션 실행 시 정의된 수만큼 DB Connection **생성**
 2. DB 작업이 필요할 때 생성해둔 Connection을 **대여**받아 재사용
 3. 작업을 마친 Connection은 Connection Pool로 **반환**
 4. 작업을 수행하지 않는 Connection은 **유휴상태**로 전환
@@ -50,7 +50,7 @@ DB에 접속하고, 데이터를 읽거나 쓰는 프로세스
 
 대기 상태 (Waiting State)
 
-Connection Pool에 빈 Connection이 없는 경우, 새로운 접속자는 대기 상태에 들어됨 
+Connection Pool에 빈 Connection이 없는 경우, 새로운 접속자는 대기 상태에 들어가게됨 
 
 이러한 상태에서 접속자는 다른 접속자가 Connection을 반환하길 기다리고, 
 
