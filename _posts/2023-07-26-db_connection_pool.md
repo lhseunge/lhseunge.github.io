@@ -21,8 +21,10 @@ header:
 sidebar:
   nav: "docs"
 ---
-[__🔗DB Connection__](https://lhseunge.github.io/database/db_connection/)이란?
+DBCP에 대해 보기 전, DB Connection을 알 필요가 있음 [__🔗DB Connection__](https://lhseunge.github.io/database/db_connection/)이란?  
 
+## DB Connection Pool
+ 
 수 많은 사용자가 서버에 요청을 보냈을 때 그만큼 Connection을 생성하게 되면 서버에 과부하가 걸리게 된다. 
 
 DBCP는 이러한 상황을 예방하기 위해 애플리케이션이 실행 될 때 미리 정의된 수만큼 DB Connection을 생성하고, DB작업이 필요할 때 생성해둔 Connection을 “대여”받아 재사용한다. 
