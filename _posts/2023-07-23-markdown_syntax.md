@@ -183,16 +183,18 @@ print("text")
  ```
 plaintext
  ```plaintext
-text
+plaintext code block
  ```
 null
 ``` 
-text
+null code block
 ```
+
 ---
 - 원시 HTML
 ```
 <div>text<div>
 ```
+
 <div>text<div>
  
