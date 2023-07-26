@@ -156,33 +156,33 @@ inline Image는 ![inline image](https://lhseunge.github.io/assets/images/github-
  /```
 ```
 html
- ``` html
+ ```html
 <div>text<div>
  ```
 css
- ``` css
+ ```css
 div {
   font-size : 50px
 }
  ```
 javascript
- ``` javascript
+ ```javascript
 console.log("text")
  ```
 java
- ``` java
+ ```java
 System.out.println("text");
  ```
 sql
- ``` sql
+ ```sql
 SELECT 'TEXT' FROM DUAL
  ```
 python
- ``` python
+ ```python
 print("text")
  ```
 plaintext
- ``` plaintext
+ ```plaintext
 text
  ```
 null
