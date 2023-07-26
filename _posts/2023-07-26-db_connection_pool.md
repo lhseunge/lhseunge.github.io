@@ -21,7 +21,7 @@ header:
 sidebar:
   nav: "docs"
 ---
-[🔗DB Connection](https://lhseunge.github.io/database/db_connection/)이란?
+[__🔗DB Connection__](https://lhseunge.github.io/database/db_connection/)이란?
 
 수 많은 사용자가 서버에 요청을 보냈을 때 그만큼 Connection을 생성하게 되면 서버에 과부하가 걸리게 된다. 
 
@@ -74,7 +74,7 @@ Connection Pool은 시스템의 환경에 따라 다르지만 보통 40~50개로
 
 하지만 최적의 성능의 위해서는 실제 요청이 얼마나 들어오는지 파악하는게 중요하며 가장 좋은 방법은 앞서 말한것 처럼 성능 테스트를 통해 최적화된 값을 구하는 것이다.
 
-[🔗마법의 공식 from 우테크 블로그](https://techblog.woowahan.com/2664/)
+[__🔗마법의 공식 from 우테크 블로그__](https://techblog.woowahan.com/2664/)
 
 pool size =  Tn * (Cm - 1) + 1
 
