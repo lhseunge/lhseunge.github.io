@@ -1,2 +1,1 @@
-# github blog repository입니다 
-[🔥블로그 가기🔥](https://lhseunge.github.io/)
+# [🔥블로그 방문🔥](https://lhseunge.github.io/)
